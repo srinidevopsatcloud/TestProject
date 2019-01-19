@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.477 sec <<< FAILURE! - in TestSuite
+verifytitle(com.selenium.WebdriverProj.WebDriverwithTestng.MercuryHomePageTitle)  Time elapsed: 11.86 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Mercury] but found [Find a Flight: Mercury Tours:]
+	at com.selenium.WebdriverProj.WebDriverwithTestng.MercuryHomePageTitle.verifytitle(MercuryHomePageTitle.java:34)
+
